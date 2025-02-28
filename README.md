@@ -1,4 +1,4 @@
-# Welcome to the TechStrota Profile 👋
+# Welcome to TechStrota 👋
 
 ## About Us
 TechStrota is a forward-thinking tech company focused on delivering high-quality web and mobile development solutions. We specialize in PHP, Laravel, Python, React, React Native, SEO, and graphic design. Our team is passionate about creating user-centric applications and websites that help businesses grow and succeed in the digital age.
